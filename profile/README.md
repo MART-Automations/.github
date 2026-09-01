@@ -1,0 +1,57 @@
+<div align="center">
+  <h1>MART Automations</h1>
+  <h3>Automatizamos procesos de negocio con IA. Panamá 🇵🇦</h3>
+  <p><i>Optimizar antes de automatizar. Si el proceso está roto, automatizarlo solo lo rompe más rápido.</i></p>
+</div>
+
+---
+
+### Qué hacemos
+
+Construimos agentes de IA que trabajan dentro de la operación real de una empresa: leen sus
+documentos, consultan sus herramientas, preparan sus papeles y reportan lo que necesita atención
+sin que nadie se lo pida.
+
+No hacemos demos. Lo que entregamos corre en producción, con datos reales, y alguien lo usa todos
+los días para trabajar.
+
+### Cómo trabajamos
+
+Tres reglas que gobiernan todo lo que construimos:
+
+- **Toda escritura en un sistema del cliente necesita aprobación de una persona**, y queda
+  registrada separando quién ejecutó (el agente) de quién autorizó (la persona, su canal y la
+  hora). Un agente que no puede responder quién movió un dato no es auditable.
+- **Los datos operativos nunca viven en la memoria del agente.** Inventario, precios y saldos se
+  leen de la fuente conectada en el momento. Un precio recordado es un precio viejo.
+- **Primero lo nativo.** Antes de escribir código propio revisamos si el framework ya lo trae. La
+  única excepción legítima es la seguridad.
+
+### Lo que ofrecemos
+
+| | Para quién |
+|---|---|
+| **Agentes gestionados** | Empresas que quieren un asistente operativo propio, conectado a sus herramientas y mantenido por nosotros |
+| **Automatización a la medida** | Un problema específico y acotado, con precio cerrado y un repositorio por solución |
+| **MART Web Express** | Negocios sin web, o con una web que ya no trabaja para ellos |
+| **Capacitación en IA** | Equipos que prefieren aprender a usarla ellos mismos |
+
+### Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+La mayoría de nuestros repositorios son privados porque contienen la operación de nuestros
+clientes. Lo que sí es público vive aquí abajo.
+
+### Hablemos
+
+[![Sitio](https://img.shields.io/badge/martautomations.com-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://martautomations.com)
+[![Email](https://img.shields.io/badge/systems@martautomations.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:systems@martautomations.com)
