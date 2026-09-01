@@ -48,8 +48,8 @@ Tres reglas que gobiernan todo lo que construimos:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-La mayoría de nuestros repositorios son privados porque contienen la operación de nuestros
-clientes. Lo que sí es público vive aquí abajo.
+Nuestros repositorios son privados: contienen la operación de nuestros clientes y esa
+operación no es nuestra para publicarla.
 
 ### Hablemos
 
