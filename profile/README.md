@@ -27,6 +27,25 @@ Tres reglas que gobiernan todo lo que construimos:
 - **Primero lo nativo.** Antes de escribir código propio revisamos si el framework ya lo trae. La
   única excepción legítima es la seguridad.
 
+### Cómo construimos
+
+Cada agente que operamos nace de **la misma plantilla**, y de ahí salen tanto el asistente interno
+de una empresa como el personal de una persona. Lo que cambia entre uno y otro no es el código: es
+el contexto de quien lo usa, que vive en un repositorio propio, privado, y **que le transferimos al
+cliente cuando lo pida**. La portabilidad es verificable, no una promesa.
+
+Esa plantilla trae de serie tres cosas que normalmente no vienen en un agente:
+
+- **Traza de autorización.** Cada escritura registra quién ejecutó y quién autorizó, con su canal y
+  su hora, y una aprobación autoriza una sola escritura: un reintento no duplica un movimiento.
+- **Auditoría de lo que hizo.** Se puede revisar cualquier trabajo contra lo que se pidió, con
+  evidencia clasificada en verificada, parcial y pendiente. Que un proceso termine sin error no
+  cuenta como verificación: los efectos externos se comprueban volviéndolos a leer.
+- **Un bucle de mejora con frenos.** El agente recoge señal de calidad y propone cambios, pero nunca
+  los aplica solo, nunca sin que una persona los apruebe, y nunca puede proponer quitar una
+  aprobación o un control. Si la única forma de ir más rápido es quitar un freno, es que no se puede
+  ir más rápido.
+
 ### Lo que ofrecemos
 
 | | Para quién |
