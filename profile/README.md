@@ -72,5 +72,6 @@ operación no es nuestra para publicarla.
 
 ### Hablemos
 
-[![Sitio](https://img.shields.io/badge/martautomations.com-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://martautomations.com)
-[![Email](https://img.shields.io/badge/systems@martautomations.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:systems@martautomations.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MART%20Automations-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/mart-automations/)
+[![Sitio](https://img.shields.io/badge/martautomations.com-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://martautomations.com)
+[![Email](https://img.shields.io/badge/systems@martautomations.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:systems@martautomations.com)
